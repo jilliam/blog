@@ -58,6 +58,8 @@
   
   In the next post, I will present more experiments with the current dataset. Moreover, a quantitative evaluation of the method will be performed using the ground truth data.
 
+  During the following days I will also be improving the code to reduce the run time.
+
   **REFERENCES** 
 
   .. [Scharstein02] D. Scharstein and R. Szeliski. A taxonomy and evaluation of dense two-frame stereo correspondence algorithms. International Journal of Computer Vision, 47(1/2/3):7-42, April-June 2002.
