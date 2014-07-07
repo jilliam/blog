@@ -21,7 +21,7 @@
 
   **radius** corresponds to the radius of the cost aggregation window, with default value equal to 5.
 
-  **filter_radius** corresponds to the radius of the box filter used for the computation of the likelihood function. The default value is 5.
+  **filter_radius** corresponds to the radius of the box filter used for the computation of the likelihood function. The default value is 2.
 
   **num_disp_candidates** is the number of the subset of the disparity hypotheses used for the cost aggregation. The default value is 60.
 
