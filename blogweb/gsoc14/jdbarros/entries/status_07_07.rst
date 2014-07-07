@@ -38,22 +38,22 @@
 
   **Fig. 1. Cones**
   .. image:: figures/Cones.png
-	      :height: 240px
+	      :height: 750px
 	      :align: center
 
   **Fig. 2. Teddy**
   .. image:: figures/Teddy.png
-	      :height: 240px
+	      :height: 750px
 	      :align: center
 
   **Fig. 3. Tsukuba**
   .. image:: figures/Tsukuba.png
-	      :height: 240px
+	      :height: 750px
 	      :align: center
 
   **Fig. 4. Venus**
   .. image:: figures/Venus.png
-	      :height: 240px
+	      :height: 750px
 	      :align: center
   
   In the next post, I will present more experiments with the current dataset. Moreover, a quantitative evaluation of the method will be performed using the ground truth data.
